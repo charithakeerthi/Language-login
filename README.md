@@ -1,3 +1,9 @@
 # Language-login
-install npm
-npm start
+Installation
+
+Install the dependencies
+
+$ npm install
+Run app
+
+$ npm start
